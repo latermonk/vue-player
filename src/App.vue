@@ -3,6 +3,11 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <endlessLove msg="endlessLove, I'm coming"/>
   </div>
+
+
+
+
+
 </template>
 
 <script>
