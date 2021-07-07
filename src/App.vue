@@ -7,13 +7,13 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue'
 import endlessLove from './components/endlessLove'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
+    // HelloWorld,
     endlessLove,
 
   }
