@@ -1,4 +1,16 @@
+
+
+
+
 # vue-player
+
+
+##  参考资料
+https://blog.csdn.net/Sakura__Lu/article/details/115610374
+https://segmentfault.com/a/1190000013219163
+
+
+
 
 ## Project setup
 ```
