@@ -6,6 +6,7 @@ import VueRouter from 'vue-router'
 
 
 
+
 Vue.use(ElementUI)
 Vue.use(VueRouter)
 Vue.use(VueRouter)
