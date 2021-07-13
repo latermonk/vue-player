@@ -1,14 +1,14 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+<!--    <img alt="Vue logo" src="./assets/logo.png">-->
     <TodoList></TodoList>
 
 
-    <endlessLove msg="endlessLove, I'm coming"/>
-    <Header></Header> <br/><br/>
-    <h1>安装目标机器</h1>
-    <Nginx></Nginx>
-    <hiax></hiax>
+<!--    <endlessLove msg="endlessLove, I'm coming"/>-->
+<!--    <Header></Header> <br/><br/>-->
+<!--    <h1>安装目标机器</h1>-->
+<!--    <Nginx></Nginx>-->
+<!--    <hiax></hiax>-->
 
 <!--    <N404></N404>-->
   </div>
@@ -32,11 +32,11 @@ import hiax from './components/hiax'
 export default {
   name: 'App',
   components: {
-    Nginx,
-    endlessLove,
-    Header,
+    // Nginx,
+    // endlessLove,
+    // Header,
     TodoList,
-    hiax,
+    // hiax,
 
 
 
